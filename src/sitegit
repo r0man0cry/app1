@@ -1,0 +1,5 @@
+<VirtualHost *:80>
+        ServerName site1git.ip-formation.local
+        DocumentRoot /home/www/site1git/src/public
+</VirtualHost>
+
